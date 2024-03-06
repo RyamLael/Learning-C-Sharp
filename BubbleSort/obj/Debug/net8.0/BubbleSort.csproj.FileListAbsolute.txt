@@ -1,0 +1,15 @@
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.sourcelink.json
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+Z:\Ryam Lael\Programação\Linguagens\C#\Learning-C-Sharp\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll
